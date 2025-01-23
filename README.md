@@ -17,7 +17,7 @@ A web application that allows users to explore detailed information about variou
 - **Frontend**: React, Tailwind CSS
 - **API**: [PokéAPI](https://pokeapi.co/)
 - **Routing**: React Router
-- **Deployment**: [Your Deployment Platform] (e.g., Vercel, Netlify, GitHub Pages)
+- **Deployment**: https://pokemon-dex-react.vercel.app/
 
 ## Installation and Setup
 
