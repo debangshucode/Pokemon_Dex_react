@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import PokemonCard from './components/PokemonCard';
-import PokemonBasicInfo from './components/PokemonBasicInfo';
-import PokemonAbilities from './components/PokemonAbilities';
-import PokemonStats from './components/PokemonStats';
-import PokemonMoves from './components/PokemonMoves';
+import PokemonCard from '../components/PokemonCard';
+import PokemonBasicInfo from '../components/PokemonBasicInfo';
+import PokemonAbilities from '../components/PokemonAbilities';
+import PokemonStats from '../components/PokemonStats';
+import PokemonMoves from '../components/PokemonMoves';
 
 function PokemonDetail() {
   const { name } = useParams();

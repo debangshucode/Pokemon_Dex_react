@@ -1,8 +1,8 @@
 // src/App.js
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import PokemonDetail from './PokemonDetail';
-import Home from './Home'; // Assuming you have a Home component
+import PokemonDetail from './pages/PokemonDetail';
+import Home from './pages/Home'; // Assuming you have a Home component
 import './App.css';
 
 function App() {
